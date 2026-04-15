@@ -13,9 +13,6 @@ delivers clean insights to Telegram every morning at 9am.
 ## 🔄 Workflow
 Schedule Trigger → HTTP Request → Gemini AI → Telegram
 
-## 📸 Output Preview
-[paste your telegram screenshot here]
-
 ## ⚙️ Setup
 1. Import workflow.json into n8n
 2. Add your Gemini API key
